@@ -1,0 +1,15 @@
+psycopg2-binary
+requests
+flask
+pandas
+scikit-learn
+python-dotenv
+numpy
+joblib
+sqlalchemy
+asyncpg
+Flask[async]
+quart
+pytest
+httpx
+pytest-asyncio

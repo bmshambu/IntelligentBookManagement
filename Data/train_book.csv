@@ -1,0 +1,51 @@
+Title,Author,Year Published,Summary,average_rating,total_reviews,Genre
+To Kill a Mockingbird,Harper Lee,1960,"A coming-of-age story set in the American South, dealing with issues of race, class, and morality.",4.953738176810233,298,Non-Fiction
+1984,George Orwell,1949,"A totalitarian regime uses surveillance, censorship, and propaganda to maintain control over the populace.",4.5159769562393794,207,Non-Fiction
+Pride and Prejudice,Jane Austen,1813,A classic tale of love and misunderstandings between Elizabeth Bennet and Mr. Darcy.,1.17775434665199,532,Fantasy
+The Great Gatsby,F. Scott Fitzgerald,1925,"A story of wealth, love, and the American Dream, centered around the enigmatic Jay Gatsby.",4.0646471834381375,203,Non-Fiction
+Moby Dick,Herman Melville,1851,The obsessive quest of Captain Ahab for revenge against the white whale Moby Dick.,1.243316230748757,989,Non-Fiction
+War and Peace,Leo Tolstoy,1869,"A detailed chronicle of Russian society during the Napoleonic Era, focusing on five aristocratic families.",1.530516809241615,581,Fiction
+Brave New World,Aldous Huxley,1932,A future society where people are genetically engineered and controlled through pleasure and conditioning.,4.78928472452097,807,Fantasy
+The Catcher in the Rye,J.D. Salinger,1951,"A teenager, Holden Caulfield, navigates the challenges of adolescence and identity in New York City.",1.2425442465078493,80,Fantasy
+The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,1954,The first part of an epic tale of a young hobbit’s journey to destroy a powerful ring.,1.756528526982604,242,Fantasy
+Crime and Punishment,Fyodor Dostoevsky,1866,The moral dilemmas faced by a young man who commits murder and grapples with guilt and redemption.,3.5256953984664285,214,Fantasy
+The Hobbit,J.R.R. Tolkien,1937,A hobbit named Bilbo Baggins embarks on an unexpected adventure with a group of dwarves.,4.023303896878339,425,Fantasy
+The Adventures of Huckleberry Finn,Mark Twain,1884,"A boy and a runaway slave travel down the Mississippi River, facing societal challenges and moral dilemmas.",4.093968343988871,230,Non-Fiction
+Jane Eyre,Charlotte Brontë,1847,An orphaned girl faces hardships and overcomes obstacles to find love and independence.,2.1255004169018195,566,Non-Fiction
+Wuthering Heights,Emily Brontë,1847,A tale of passionate but doomed love set on the Yorkshire moors.,1.7054770343290802,96,Fantasy
+Frankenstein,Mary Shelley,1818,"A scientist creates a sentient being, leading to tragic consequences for both creator and creature.",4.99048946200362,739,Sci-Fi
+The Grapes of Wrath,John Steinbeck,1939,The struggles of a poor family migrating from the Dust Bowl to California during the Great Depression.,4.1809057933253495,405,Fiction
+The Alchemist,Paulo Coelho,1988,A shepherd boy’s journey to find a hidden treasure teaches him about life and following his dreams.,2.313427989815559,390,Fiction
+The Picture of Dorian Gray,Oscar Wilde,1890,A young man’s portrait ages and bears the marks of his sins while he remains youthful and unmarked.,1.7953336892156448,315,Sci-Fi
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,A young boy discovers he is a wizard and begins his education at Hogwarts School of Witchcraft and Wizardry.,4.150547351632897,725,Non-Fiction
+The Road,Cormac McCarthy,2006,"A father and son journey through a bleak, desolate world, struggling to survive.",1.7731513181128964,823,Fiction
+One Hundred Years of Solitude,Gabriel García Márquez,1967,"The epic tale of the Buendía family in the fictional town of Macondo, blending reality with the fantastical.",4.463145745668487,890,Fiction
+Anna Karenina,Leo Tolstoy,1877,"The tragic story of a married woman’s affair with a count, set against the backdrop of Russian society.",1.3404634310900958,445,Sci-Fi
+The Brothers Karamazov,Fyodor Dostoevsky,1880,"A deep exploration of faith, doubt, and morality through the story of three brothers and their father’s murder.",2.5208024942957694,142,Sci-Fi
+Dracula,Bram Stoker,1897,"The story of Count Dracula’s attempt to move from Transylvania to England, and the efforts to stop him.",3.5533963646544064,233,Fiction
+The Stranger,Albert Camus,1942,A novel about an indifferent man who commits murder and faces the absurdity of life and justice.,4.421444519577641,203,Fiction
+Lolita,Vladimir Nabokov,1955,The controversial story of a middle-aged man’s obsession with a 12-year-old girl.,4.69705604638632,352,Fiction
+Beloved,Toni Morrison,1987,"The haunting story of a runaway slave and the ghost of her dead daughter, exploring the legacy of slavery.",3.6365493620920346,872,Non-Fiction
+Catch-22,Joseph Heller,1961,"A satirical take on war and bureaucracy, centered around a group of American bomber pilots in WWII.",4.972857315835977,827,Sci-Fi
+Slaughterhouse-Five,Kurt Vonnegut,1969,"The surreal experiences of a soldier who becomes “unstuck in time,” experiencing events out of sequence.",2.393354504480957,608,Fantasy
+Fahrenheit 451,Ray Bradbury,1953,"A future society where books are banned and “firemen” burn them, focusing on one man’s awakening.",1.9192463562573,181,Fiction
+Middlemarch,George Eliot,1871,"A sprawling study of provincial life in 19th-century England, focusing on social and political issues.",1.7495208350829787,769,Fantasy
+Don Quixote,Miguel de Cervantes,1605,"The story of an aging man who, inspired by tales of chivalry, sets out as a knight to revive chivalry.",3.589547183882392,658,Fiction
+The Divine Comedy,Dante Alighieri,1320,"A spiritual journey through Hell, Purgatory, and Paradise, representing the soul’s path to God.",3.89347179189149,997,Sci-Fi
+The Metamorphosis,Franz Kafka,1915,"A man wakes up one morning to find himself transformed into a giant insect, facing alienation and despair.",2.1271771575458076,355,Sci-Fi
+The Handmaid's Tale,Margaret Atwood,1985,"A future society where women are subjugated, focusing on the life of a “handmaid” used for reproduction.",3.340002330468016,846,Fiction
+The Old Man and the Sea,Ernest Hemingway,1952,The story of an old Cuban fisherman’s epic struggle to catch a giant marlin and his battle with the sea.,3.8198971999816336,273,Non-Fiction
+Ulysses,James Joyce,1922,"A day in the life of Leopold Bloom in Dublin, paralleling Homer’s Odyssey in a stream-of-consciousness style.",1.4843662532773232,115,Fantasy
+Heart of Darkness,Joseph Conrad,1899,A journey into the African Congo becomes a metaphorical exploration of colonialism and the human psyche.,4.523396286859148,40,Sci-Fi
+Great Expectations,Charles Dickens,1861,"The story of an orphan named Pip and his growth, experiences, and moral development in Victorian England.",4.449868682246607,218,Non-Fiction
+Madame Bovary,Gustave Flaubert,1857,"The story of a doctor's wife who, dissatisfied with her provincial life, seeks escape through affairs and luxury.",1.6080542800863942,481,Non-Fiction
+A Tale of Two Cities,Charles Dickens,1859,"A story of love, sacrifice, and redemption set against the backdrop of the French Revolution.",1.6452618305149405,784,Fantasy
+The Count of Monte Cristo,Alexandre Dumas,1844,A man wrongfully imprisoned escapes and seeks revenge against those who betrayed him.,1.0258788722634624,823,Fantasy
+The Sound and the Fury,William Faulkner,1929,"A complex, multi-perspective narrative about the decline of the Compson family in the American South.",1.4446234937320135,38,Sci-Fi
+The Sun Also Rises,Ernest Hemingway,1926,"A post-WWI story of a group of expatriates in Europe, exploring themes of love, loss, and disillusionment.",1.880907665051382,604,Fantasy
+A Passage to India,E.M. Forster,1924,"The tensions between the British and Indians during the British Raj, exploring race, religion, and friendship.",3.1125905753593006,851,Fantasy
+Gulliver’s Travels,Jonathan Swift,1726,"The adventures of Lemuel Gulliver in strange lands, satirizing human nature and society.",1.8026947035063006,685,Non-Fiction
+Gone with the Wind,Margaret Mitchell,1936,"The story of Scarlett O’Hara, a Southern belle, during the American Civil War and Reconstruction.",4.514948825354859,759,Fantasy
+Rebecca,Daphne du Maurier,1938,"A young bride is haunted by the legacy of her husband’s first wife, Rebecca, at the mysterious Manderley estate.",2.1556585993320807,891,Fantasy
+The Scarlet Letter,Nathaniel Hawthorne,1850,A woman in Puritan New England is shunned and forced to wear a scarlet “A” for adultery.,1.8332445999822098,114,Non-Fiction
+The Catch-22,Joseph Heller,1961,A satirical look at the absurdities of war through the experiences of a WWII bomber squadron.,1.3346281648470004,790,Fiction
